@@ -1,0 +1,53 @@
+category,package
+Communication,flexdashboard
+Communication,gt
+Communication,kableExtra
+Communication,patchwork
+Communication,plotly
+Communication,r2d3
+Communication,shiny
+Data Augmentation,data.table
+Data Augmentation,tidyverse
+Databases,DBI
+Databases,RSQLite
+GIS,leaflet
+GIS,sf
+NLP,lexicon
+NLP,sentimentr
+NLP,stringdist
+NLP,textclean
+NLP,textclean
+NLP,textmineR
+NLP,tidytext
+NLP,udpipe
+Predictive Modelling,glmnet
+Predictive Modelling,ranger
+Predictive Modelling,tidymodels
+Predictive Modelling,xgboost
+Time-series Analysis,fable
+Time-series Analysis,feasts
+Time-series Analysis,forecast
+Time-series Analysis,prophet
+Time-series Analysis,slider
+Time-series Analysis,tsibble
+Time-series Analysis,xts
+Time-series Analysis,zoo
+Utilities,cli
+Utilities,devtools
+Utilities,fs
+Utilities,future
+Utilities,here
+Utilities,httr
+Utilities,keyring
+Utilities,lobstr
+Utilities,magick
+Utilities,pak
+Utilities,pdftools
+Utilities,readxl
+Utilities,renv
+Utilities,rlang
+Utilities,sloop
+Utilities,systemfonts
+Utilities,tesseract
+Utilities,vroom
+Utilities,ymlthis
