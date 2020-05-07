@@ -38,6 +38,7 @@ Utilities,fs
 Utilities,future
 Utilities,here
 Utilities,httr
+Utilities,calendar
 Utilities,keyring
 Utilities,lobstr
 Utilities,magick
